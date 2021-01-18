@@ -1,2 +1,3 @@
-# micro.blog-sublimeads-plug-in
+# Sublime Ads Code
  
+Adds Sublime Ads script into the <head> tag of a site.

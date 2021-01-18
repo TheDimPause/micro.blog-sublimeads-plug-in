@@ -1,0 +1,8 @@
+{
+	"version": "1.0.1",
+	"title": "Sublime Ads Code",
+	"description": "Adds Sublime Ads script into the <head> tag of a site.",
+	"includes": [
+    	"sublimeads.html"
+	]
+}
